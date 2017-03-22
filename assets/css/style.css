@@ -1,0 +1,242 @@
+ul{
+	list-style-type: none;
+	float: right;
+}
+li{
+	float: left;
+}
+li a{
+	text-decoration: none;
+	color: #555;
+	font-size: 20px;
+	text-transform: uppercase;
+	padding: 14px 16px;
+}
+li a:hover{
+	color: #7ed321;
+}
+.active{
+	border-bottom: 1px solid #7ed321;
+}
+.header-section h1{
+	color: #00000;
+	font-size: 25px;
+	text-align: center;
+	margin-top: 18%;
+}
+.header-section p{
+	color: #00000;
+	font-size: 25px;
+	text-align: center;
+}
+.footer-section{
+	background-color: #000000;
+}
+.footer-section h1{
+	color: #fff;
+	font-size: 13px;
+	text-transform: uppercase;
+	height: 20px;
+	margin-top: 12%;
+	padding: 12px;
+}
+
+
+.newsreaders-section img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 7px;
+    width: 270px;
+	height: 270px;
+}
+.newsreaders1-section img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 7px;
+    width: 270px;
+	height: 270px;
+}
+.newsreaders-section {
+    margin:  30px auto;
+    width: 1000px;
+}
+.newsreaders-section div{
+	width: 33%;
+	text-align: center;
+	padding: 10px !important;
+}
+.image1{
+	float: left;
+}
+.image3{
+	float: right;
+}
+.image2{
+	margin: auto;
+}
+
+.newsreaders1-section {
+    margin:  30px auto;
+    width: 1000px;
+}
+.newsreaders1-section div{
+	width: 33%;
+	text-align: center;
+	padding: 10px !important;
+}
+.image4{
+	float: left;
+}
+.image5{
+	float: right;
+}
+.image6{
+	margin: auto;
+}
+
+
+.news-section h1{
+	color: #555;
+	border-bottom: 2px solid #e0e0e0;
+	font-size: 28px;
+	text-transform: capitalize;
+	margin-top: 5%;
+}
+.latest-section div{
+    position: relative;
+    width: 100%/2;
+}
+.latest-section img{
+	width: 400px;
+	height: 400px;
+}
+.latest-section p{
+	position: absolute;
+	top: 250px;
+	font-size: 23px;
+	color: #fff;
+	width: 30%;
+	text-align: center;
+}
+
+
+.type-section h1{
+	text-transform: capitalize;
+	font-size: 25px;
+	color: #555;
+}
+.type-section p{
+	font-size: 20px;
+	color: #555;
+	text-align: center;
+}
+.type-section {
+    margin:  30px auto;
+    width: 1000px;
+}
+.type-section div{
+	width: 33%;
+	text-align: center;
+	padding: 10px !important;
+}
+.sports-section{
+	float: left;
+}
+.weather-section{
+	float: right;
+}
+.science-section{
+	margin: auto;
+}
+.type1-section h1{
+	text-transform: capitalize;
+	font-size: 25px;
+	color: #555;
+}
+.type1-section p{
+	font-size: 20px;
+	color: #555;
+	text-align: center;
+}
+.type1-section{
+    margin:  30px auto;
+    width: 1000px;
+}
+.type1-section div{
+	width: 33%;
+	text-align: center;
+	padding: 10px !important;
+}
+.politics-section{
+	float: left;
+}
+.world-section{
+	float: right;
+}
+.cinema-section{
+	margin: auto;
+}
+
+
+
+input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #7ed321;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+input[type=submit] {
+    width: 100%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+input[type=submit]:hover {
+    background-color: #7ed321;
+}
+div {
+    border-radius: 5px;
+    
+    padding: 20px;
+}
+
+
+
+.contact-section {
+    margin:  30px auto;
+    width: 1000px;
+}
+.contact-section  div {
+    width: 33%;
+	font-size: 25px;
+	text-align: center;
+}
+.no-section {
+    float: left;
+}
+.mail-section {
+    float: right;
+}
+.address-section {
+    margin: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
